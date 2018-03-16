@@ -1,7 +1,6 @@
 {
   "name": "API.AI webhook demonstration",
-  "description": "API.AI webhook demonstration",
+  "description": "Bank InterestRate",
   "repository": "https://github.com/bkhadka89/BankInterestRate",
-  "logo": "http://binodkhadka89.github.io/img/apiai.png",
   "keywords": ["api.ai", "natural language"]
 }
