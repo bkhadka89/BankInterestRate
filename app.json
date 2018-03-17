@@ -4,7 +4,6 @@
   "repository": "https://github.com/bkhadka89/BankInterestRate",
   "keywords": ["api.ai", "natural language"]
 }
-  ],
   "buildpacks": [
     {
       "url": "https://github.com/stomita/heroku-buildpack-phantomjs"
@@ -17,4 +16,4 @@
       }
     }
   }
-}
+
