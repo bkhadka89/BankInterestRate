@@ -1,2 +1,18 @@
 Flask==0.10.1
 future==0.16.0
+[[source]]
+
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+
+
+[packages]
+
+django = "*"
+gunicorn = "*"
+django-heroku = "*"
+
+
+[requires]
+
+python_version = "3.6"
